@@ -6,9 +6,9 @@
 ### Facultad de Ciencias Físico Matemáticas
 
 #### Tutor: Yazmany Jahaziel Guerrero Ceja
-#### Fecha: 11/septiembre/2023
+#### Fecha: 11 de septiembre del 2023
 
-### Actividad: Evidencia de Aprendizaje 1: Programa Computacional
+### Evidencia de Aprendizaje 1: Programa Computacional
 
 #### Grupo: 32
 #### Equipo: 3
