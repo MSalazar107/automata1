@@ -2,18 +2,21 @@
 
 ## Manual de Usuario
 
-### Universidad Autónoma de Nuevo León
-### Facultad de Ciencias Físico Matemáticas
+**Universidad Autónoma de Nuevo León**  
+*Facultad de Ciencias Físico Matemáticas*  
+Licenciado en Ciencias Computacionales
 
-#### Tutor: Yazmany Jahaziel Guerrero Ceja
-#### Fecha: 11 de septiembre del 2023
+**Tutor:** Yazmany Jahaziel Guerrero Ceja  
+**Fecha:** 11 de Septiembre del 2023
 
-### Evidencia de Aprendizaje 1: Programa Computacional
+---
 
-#### Grupo: 32
-#### Equipo: 3
+### Actividad: Evidencia de Aprendizaje 1: Programa Computacional
 
-##### Integrantes:
+**Grupo:** 32  
+**Equipo:** 3
+
+**Integrantes:**
 - Angel Francisco Hernandez Gamez
 - Nallely Esmeralda Hernandez Ibarra
 - Jesus Mario Salazar Sanchez
