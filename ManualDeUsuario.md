@@ -10,7 +10,7 @@
 
 ---
 
-### Actividad: Evidencia de Aprendizaje 1: Programa Computacional
+### Evidencia de Aprendizaje 1: Programa Computacional
 
 **Grupo:** 32  
 **Equipo:** 3
