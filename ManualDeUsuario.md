@@ -4,7 +4,6 @@
 
 **Universidad Autónoma de Nuevo León**  
 *Facultad de Ciencias Físico Matemáticas*  
-Licenciado en Ciencias Computacionales
 
 **Tutor:** Yazmany Jahaziel Guerrero Ceja  
 **Fecha:** 11 de Septiembre del 2023
