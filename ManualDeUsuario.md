@@ -1,4 +1,23 @@
-# Manual de Usuario:Programa para validar cadenas en un lenguaje regular.
+# Programa para validar cadenas en un lenguaje regular
+
+## Manual de Usuario
+
+### Universidad Autónoma de Nuevo León
+### Facultad de Ciencias Físico Matemáticas
+
+#### Tutor: Yazmany Jahaziel Guerrero Ceja
+#### Fecha: 11/septiembre/2023
+
+### Actividad: Evidencia de Aprendizaje 1: Programa Computacional
+
+#### Grupo: 32
+#### Equipo: 3
+
+##### Integrantes:
+- Angel Francisco Hernandez Gamez
+- Nallely Esmeralda Hernandez Ibarra
+- Jesus Mario Salazar Sanchez
+- Ricardo Hervey Estrada Garcia
 
 ## Descripción
 Este programa en C++ permite verificar si una cadena de caracteres cumple con las reglas de un lenguaje regular específico. El programa solicita una cadena de entrada y verifica si cumple con las siguientes reglas:
