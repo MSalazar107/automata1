@@ -29,7 +29,7 @@ Este programa en C++ permite verificar si una cadena de caracteres cumple con la
 4. Los últimos símbolos deben ser un punto seguido del número de matrícula completo.
 5. La cadena puede aceptar puntos intermedios, pero no en forma consecutiva.
 
-**Instrucciones para la ejecución:**
+## Instrucciones para la ejecución:
 1. Descarga el archivo "EvidenciaTeoAut.exe" del repositorio de Github a tu computadora.
 
 2. Abre una ventana de terminal o línea de comandos en tu sistema operativo.
