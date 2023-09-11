@@ -2,18 +2,18 @@
 
 ## Manual de Usuario
 
-**Universidad Autónoma de Nuevo León**  
-*Facultad de Ciencias Físico Matemáticas*  
+**Universidad Autónoma de Nuevo León**  
+*Facultad de Ciencias Físico Matemáticas*  
 
-**Tutor:** Yazmany Jahaziel Guerrero Ceja  
+**Tutor:** Yazmany Jahaziel Guerrero Ceja  
 **Fecha:** 11 de Septiembre del 2023
 
 ---
 
 ### Evidencia de Aprendizaje 1: Programa Computacional
 
-**Grupo:** 32  
-**Equipo:** 3
+**Grupo:** 32  
+**Equipo:** 3  
 
 **Integrantes:**
 - Angel Francisco Hernandez Gamez
@@ -22,7 +22,9 @@
 - Ricardo Hervey Estrada Garcia
 
 ## Descripción
+
 Este programa en C++ permite verificar si una cadena de caracteres cumple con las reglas de un lenguaje regular específico. El programa solicita una cadena de entrada y verifica si cumple con las siguientes reglas:
+
 1. El primer símbolo debe ser un dígito.
 2. Puede contener cualquier combinación de letras y dígitos intermedios válidos en el alfabeto.
 3. La cadena debe contener las iniciales del usuario de forma consecutiva al menos una vez.
@@ -30,6 +32,7 @@ Este programa en C++ permite verificar si una cadena de caracteres cumple con la
 5. La cadena puede aceptar puntos intermedios, pero no en forma consecutiva.
 
 ## Instrucciones para la ejecución:
+
 ## Requisitos
 
 - Acceso a una computadora con un sistema operativo compatible.
@@ -70,8 +73,7 @@ Ejemplo 1 (una cadena válida):
 ```
 Ingrese una cadena para verificar si es válida: 1yazmanyjahazielg.1339767
 
-Resultado 1:
-La cadena es válida.
+Resultado 1: La cadena es válida.
 ```
 
 Ejemplo 2 (una cadena inválida):
@@ -79,8 +81,7 @@ Ejemplo 2 (una cadena inválida):
 ```
 Ingrese una cadena para verificar si es válida: yazmanyjahazielg.1339767
 
-Resultado 2:
-La cadena no es válida.
+Resultado 2: La cadena no es válida.
 ```
 
 Después de obtener el resultado, el programa te dará la opción de solicitar otra cadena de entrada para analizar. Ingresa "s" si deseas analizar otra cadena o "n" si no deseas analizar más cadenas.
