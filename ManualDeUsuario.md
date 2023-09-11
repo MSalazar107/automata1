@@ -30,64 +30,75 @@ Este programa en C++ permite verificar si una cadena de caracteres cumple con la
 5. La cadena puede aceptar puntos intermedios, pero no en forma consecutiva.
 
 ## Instrucciones para la ejecución:
-1. Descarga el archivo "Evidencia1TeoAut.exe" del repositorio de Github a tu computadora.
+## Requisitos
 
-2. Abre una ventana de terminal o línea de comandos en tu sistema operativo.
+- Acceso a una computadora con un sistema operativo compatible.
+- Tener instalada una ventana de terminal o una línea de comandos en tu sistema operativo.
 
-3. Navega hasta la ubicación donde hayas guardado el archivo "Evidencia1TeoAut.exe".
+## Descarga del archivo
 
-4. Para ejecutar el programa, ingresa el siguiente comando en la línea de comandos:
+Para empezar, debes descargar el archivo "Evidencia1TeoAut.exe" del repositorio de GitHub. Sigue estos pasos:
+
+1. Accede al repositorio de GitHub donde se encuentra el archivo.
+2. Busca y haz clic en el botón "Download" o "Descargar" para obtener una copia del archivo en tu computadora.
+
+## Ejecución del programa
+
+Una vez que hayas descargado el archivo "Evidencia1TeoAut.exe", sigue estos pasos para ejecutar el programa:
+
+1. Abre una ventana de terminal o una línea de comandos en tu sistema operativo.
+2. Navega hasta la ubicación donde hayas guardado el archivo "Evidencia1TeoAut.exe".
+3. Para ejecutar el programa, ingresa el siguiente comando en la línea de comandos: `Evidencia1TeoAut.exe`.
+
+El programa mostrará un mensaje de bienvenida y te solicitará ingresar tu nombre completo y tu número de matrícula. Asegúrate de ingresar la información correctamente según las indicaciones.
+
+Ejemplo:
+
 ```
-Evidencia1TeoAut.exe
+Bienvenido al Programa de Verificación de Cadenas
+
+Por favor, ingrese su nombre completo: Yazmany Guerrero Ceja
+Por favor, ingrese su número de matrícula completo: 1339767
 ```
 
-5. El programa mostrará un mensaje de bienvenida y te solicitará ingresar tu nombre completo y tu número de matrícula. Asegúrate de ingresar la información correctamente según las indicaciones.
+## Verificación de cadenas
 
-   Ejemplo:
-   ```
-   Bienvenido al Programa de Verificación de Cadenas
+Una vez que hayas ingresado tu información de nombre y número de matrícula, el programa te pedirá que ingreses una cadena de texto para verificar si es válida o no. Asegúrate de ingresar la cadena correctamente según las indicaciones.
 
-   Por favor, ingrese su nombre completo: Yazmany Guerrero Ceja
-   Por favor, ingrese su número de matrícula completo: 1339767
-   ```
+Ejemplo 1 (una cadena válida):
 
-6. A continuación, el programa te pedirá que ingreses una cadena de texto para verificar si es válida o no. Asegúrate de ingresar la cadena correctamente según las indicaciones.
+```
+Ingrese una cadena para verificar si es válida: 1yazmanyjahazielg.1339767
 
-   Ejemplo 1 (una cadena válida):
-   ```
-   Ingrese una cadena para verificar si es válida: 1yazmanyjahazielg.1339767
-   ```
+Resultado 1:
+La cadena es válida.
+```
 
-   Resultado 1:
-   ```
-   La cadena es válida.
-   ```
+Ejemplo 2 (una cadena inválida):
 
-   Ejemplo 2 (una cadena inválida):
-   ```
-   Ingrese una cadena para verificar si es válida: yazmanyjahazielg.1339767
-   ```
+```
+Ingrese una cadena para verificar si es válida: yazmanyjahazielg.1339767
 
-   Resultado 2:
-   ```
-   La cadena no es válida.
-   ```
+Resultado 2:
+La cadena no es válida.
+```
 
-7. Después de obtener el resultado, el programa te dará la opción de solicitar otra cadena de entrada para analizar. Ingresa "s" si deseas analizar otra cadena o "n" si no deseas analizar más cadenas.
+Después de obtener el resultado, el programa te dará la opción de solicitar otra cadena de entrada para analizar. Ingresa "s" si deseas analizar otra cadena o "n" si no deseas analizar más cadenas.
 
-   Ejemplo:
-   ```
-   ¿Desea analizar otra cadena? (s/n): s
-   
-   Ingrese una cadena para verificar si es válida: yazmanyjahazielg.1.1339767
+Ejemplo:
 
-   La cadena no es válida.
+```
+¿Desea analizar otra cadena? (s/n): s
 
-   ¿Desea analizar otra cadena? (s/n): n
-   ```
+Ingrese una cadena para verificar si es válida: yazmanyjahazielg.1.1339767
 
-8. Si ingresaste "s" para analizar otra cadena, el programa te solicitará la nueva cadena de entrada y el proceso de verificación se repetirá. Si ingresaste "n", el programa se cerrará.
+La cadena no es válida.
 
-9. Ahora puedes ejecutar el programa y verificar varias cadenas según tus necesidades.
+¿Desea analizar otra cadena? (s/n): n
+```
 
-**Nota:** Asegúrate de seguir las indicaciones en el programa y proporcionar la información solicitada correctamente.
+Si ingresaste "s" para analizar otra cadena, el programa te solicitará la nueva cadena de entrada y el proceso de verificación se repetirá. Si ingresaste "n", el programa se cerrará.
+
+¡Ahora puedes ejecutar el programa y verificar varias cadenas según tus necesidades!
+
+Nota: Asegúrate de seguir las indicaciones en el programa y proporcionar la información solicitada correctamente.
