@@ -28,3 +28,25 @@ Este programa en C++ permite verificar si una cadena de caracteres cumple con la
 3. La cadena debe contener las iniciales del usuario de forma consecutiva al menos una vez.
 4. Los últimos símbolos deben ser un punto seguido del número de matrícula completo.
 5. La cadena puede aceptar puntos intermedios, pero no en forma consecutiva.
+
+**Instrucciones para la ejecución:**
+1. Descarga el archivo "EvidenciaTeoAut.exe" del repositorio de Github a tu computadora.
+
+2. Abre una ventana de terminal o línea de comandos en tu sistema operativo.
+
+3. Navega hasta la ubicación donde hayas guardado el archivo "EvidenciaTeoAut.exe".
+
+4. Para ejecutar el programa, ingresa el siguiente comando en la línea de comandos:
+```
+EvidenciaTeoAut.exe
+```
+
+5. El programa mostrará un mensaje de bienvenida y pedirá que ingreses tu nombre completo y matrícula.
+
+6. Sigue las instrucciones en pantalla para proporcionar la información requerida.
+
+7. Una vez que ingreses la información, el programa te pedirá que introduzcas una cadena de texto para verificar si es válida o no.
+
+8. Ingresa la cadena y presiona Enter para obtener el resultado.
+
+**Nota:** Asegúrate de seguir las indicaciones en el programa y proporcionar la información solicitada correctamente.
