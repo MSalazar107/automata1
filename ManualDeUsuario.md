@@ -41,12 +41,53 @@ Este programa en C++ permite verificar si una cadena de caracteres cumple con la
 Evidencia1TeoAut.exe
 ```
 
-5. El programa mostrará un mensaje de bienvenida y pedirá que ingreses tu nombre completo y matrícula.
+5. El programa mostrará un mensaje de bienvenida y te solicitará ingresar tu nombre completo y tu número de matrícula. Asegúrate de ingresar la información correctamente según las indicaciones.
 
-6. Sigue las instrucciones en pantalla para proporcionar la información requerida.
+   Ejemplo:
+   ```
+   Bienvenido al Programa de Verificación de Cadenas
 
-7. Una vez que ingreses la información, el programa te pedirá que introduzcas una cadena de texto para verificar si es válida o no.
+   Por favor, ingrese su nombre completo: Yazmany Guerrero Ceja
+   Por favor, ingrese su número de matrícula completo: 1339767
+   ```
 
-8. Ingresa la cadena y presiona Enter para obtener el resultado.
+6. A continuación, el programa te pedirá que ingreses una cadena de texto para verificar si es válida o no. Asegúrate de ingresar la cadena correctamente según las indicaciones.
+
+   Ejemplo 1 (una cadena válida):
+   ```
+   Ingrese una cadena para verificar si es válida: 1yazmanyjahazielg.1339767
+   ```
+
+   Resultado 1:
+   ```
+   La cadena es válida.
+   ```
+
+   Ejemplo 2 (una cadena inválida):
+   ```
+   Ingrese una cadena para verificar si es válida: yazmanyjahazielg.1339767
+   ```
+
+   Resultado 2:
+   ```
+   La cadena no es válida.
+   ```
+
+7. Después de obtener el resultado, el programa te dará la opción de solicitar otra cadena de entrada para analizar. Ingresa "s" si deseas analizar otra cadena o "n" si no deseas analizar más cadenas.
+
+   Ejemplo:
+   ```
+   ¿Desea analizar otra cadena? (s/n): s
+   
+   Ingrese una cadena para verificar si es válida: yazmanyjahazielg.1.1339767
+
+   La cadena no es válida.
+
+   ¿Desea analizar otra cadena? (s/n): n
+   ```
+
+8. Si ingresaste "s" para analizar otra cadena, el programa te solicitará la nueva cadena de entrada y el proceso de verificación se repetirá. Si ingresaste "n", el programa se cerrará.
+
+9. Ahora puedes ejecutar el programa y verificar varias cadenas según tus necesidades.
 
 **Nota:** Asegúrate de seguir las indicaciones en el programa y proporcionar la información solicitada correctamente.
