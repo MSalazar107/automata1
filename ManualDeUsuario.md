@@ -33,19 +33,19 @@ Este programa en C++ permite verificar si una cadena de caracteres cumple con la
 
 ## Instrucciones para la ejecución:
 
-## Requisitos
+### Requisitos
 
 - Acceso a una computadora con un sistema operativo compatible.
 - Tener instalada una ventana de terminal o una línea de comandos en tu sistema operativo.
 
-## Descarga del archivo
+### Descarga del archivo
 
 Para empezar, debes descargar el archivo "Evidencia1TeoAut.exe" del repositorio de GitHub. Sigue estos pasos:
 
 1. Accede al repositorio de GitHub donde se encuentra el archivo.
 2. Busca y haz clic en el botón "Download" o "Descargar" para obtener una copia del archivo en tu computadora.
 
-## Ejecución del programa
+### Ejecución del programa
 
 Una vez que hayas descargado el archivo "Evidencia1TeoAut.exe", sigue estos pasos para ejecutar el programa:
 
@@ -64,7 +64,7 @@ Por favor, ingrese su nombre completo: Yazmany Guerrero Ceja
 Por favor, ingrese su número de matrícula completo: 1339767
 ```
 
-## Verificación de cadenas
+### Verificación de cadenas
 
 Una vez que hayas ingresado tu información de nombre y número de matrícula, el programa te pedirá que ingreses una cadena de texto para verificar si es válida o no. Asegúrate de ingresar la cadena correctamente según las indicaciones.
 
@@ -102,4 +102,4 @@ Si ingresaste "s" para analizar otra cadena, el programa te solicitará la nueva
 
 ¡Ahora puedes ejecutar el programa y verificar varias cadenas según tus necesidades!
 
-Nota: Asegúrate de seguir las indicaciones en el programa y proporcionar la información solicitada correctamente.
+**Nota:** Asegúrate de seguir las indicaciones en el programa y proporcionar la información solicitada correctamente.
